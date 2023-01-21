@@ -5,13 +5,6 @@
 - 🗣️ Inglês e Espanhol intermediário
 - 📫 Me contate por aqui: sabrinagbdev@gmail.com
 
-## Status
-
-<div align="center" >  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabrinagomesb&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Sabrina Gomes's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomesb&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=4" alt="Sabrina Gomes's github stats"  />
-</div>
-
 ## Techs
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -25,3 +18,10 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/Github-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+## Status
+
+<div align="center" >  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabrinagomesb&show_icons=true&count_private=true&hide_border=true&title_color=FFC800&icon_color=00D7D7&text_color=00D7D7&bg_color=0d1117" alt="Sabrina Gomes's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinagomesb&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117&langs_count=4" alt="Sabrina Gomes's github stats"  />
+</div>
