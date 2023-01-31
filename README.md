@@ -3,7 +3,7 @@
 - 👩🏼‍💻 Estudante Fullstack Web developer
 - 🗺️ Acompanhe meus estudos: [Roadmap](https://github.com/sabrinagomesb/roadmap)
 - 🗣️ Inglês e Espanhol intermediário
-- 📫 Me contate por aqui: sabrinagbdev@gmail.com
+- 📫 Contate-me por aqui: sabrinagbdev@gmail.com
 
 ## Techs
 
